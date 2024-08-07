@@ -1,0 +1,3 @@
+yagmail
+pandas
+jinja2
